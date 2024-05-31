@@ -1,7 +1,7 @@
 # Relight Team
 
 <p align="center">
-  <img src="../RT_LOGO.png" width="400" alt="Relight Team Logo">
+  <img src="RT_LOGO.png" width="400" alt="Relight Team Logo">
 </p>
 
 
