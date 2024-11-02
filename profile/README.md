@@ -25,3 +25,5 @@ While we like to keep the Code of Conduct to the bare minimum, there are some ru
 2. All code must NOT include any code from Unreal Engine, every code written is original
 3. There must be NO reference of Unreal Engine in the source code, including comments. (i.e. variables named "UE", comments talking about Unreal engine, etc)
 4. maintainers can only be banned from the rules above only, if they didn't break any rules, THEY CANNOT BE BANNED
+5. While not enforced, it is heavily recommended to user UpperCamelcase for naming in the code (for example, "SetText")
+  - I understand not everyone will like this, but I'm very used to it, and I like to keep the engine consistent, feel free to undo it in your personal projects, but in the engine codebase, gotta do it
